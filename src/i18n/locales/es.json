@@ -127,6 +127,7 @@
     "loginCredentials": "Credenciales de inicio de sesión",
     "confirmAccount": "Confirmar Cuenta",
     "accountConfirmedLogIn": "Cuenta confirmada. Ahora puedes iniciar sesión.",
+    "tokenExpiredResent": "Tu enlace expiró. Hemos enviado un enlace nuevo a tu correo electrónico.",
     "verifyingAccount": "Verificando cuenta...",
     "accountVerified": "¡Cuenta verificada exitosamente!",
     "redirectingLogin": "Redirigiendo al inicio de sesión...",

@@ -127,6 +127,7 @@
     "loginCredentials": "Login credentials",
     "confirmAccount": "Confirm Account",
     "accountConfirmedLogIn": "Account confirmed. You can now log in.",
+    "tokenExpiredResent": "Your link expired. We sent a new one to your email address.",
     "verifyingAccount": "Verifying account...",
     "accountVerified": "Account verified successfully!",
     "redirectingLogin": "Redirecting to login...",
