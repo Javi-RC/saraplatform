@@ -215,7 +215,7 @@ export default function ProjectDetailPage() {
 
       {showAssignModal && (
         <EmployeeAssignmentModal
-          organizationId={project.organization}
+          organizationId={project.organization?._id || project.organization}
           currentEmployees={project.assignedEmployees || []}
           onAssign={handleAssignEmployee}
           onClose={() => setShowAssignModal(false)}
